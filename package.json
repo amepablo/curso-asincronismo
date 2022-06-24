@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/amepablo/curso-asincronismo#readme",
   "dependencies": {
+    "node-fetch": "^3.2.6",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
